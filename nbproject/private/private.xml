@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/gestion_admin/liste_utilisateurs.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/gestion_admin/aucun_chercheur_utt.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/rechercher/rechercher_coauteur.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/rechercher/action.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/accueil/valider_connexion.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/inscrire/verifier_inscrire.js</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/cree_database/Creer_admin.sql</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/style.css</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/jquery-ui.css</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/cree_database/database_utilisateur_create.sql</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/Js/jquery-ui.js</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/rechercher/javascrip_rechercher.js</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/articles/Ajouter_Article.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/rechercher/autocomplete_nom_auteur.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/rechercher/rechercher_collaborations.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/afficher/contenu_article.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/gestion_admin/liste_auteurs.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/accueil/connecter_deconnecter.js</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/inscrire/verifier_inscrire.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/inscrire/verifier_ajouter_inscrire.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/afficher/afficher.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/afficher/contenu_accueil.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/gestion_admin/liste_articles.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/rechercher/autocomplete_organisation.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/afficher/contenu_categorie.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/afficher/article_de_auteur.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/gestion_admin/article_deux_fois.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/articles/verifier_article.js</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/php_sql_action.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/articles/Action_Article.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/gestion/verifier_ajouter_auteur.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/rechercher/autocomplete_titre.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/gestion_admin/admin.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/rechercher/autocomplete_prenom_auteur.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/gestion/action_utilisateur.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/accueil/form_inscrire.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/Css/bootstrap.min.css.map</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/gestion_admin/meme_auteur.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/cree_database/database_articles_create.sql</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/Css/bootstrap.min.css</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/accueil/deconnexion.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/accueil/index.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/rechercher/recherche.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/Js/jquery-2.0.0.min.js</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/articles/resize_image.php</file>
+            <file>file:/D:/Les%20UVs/Lo07/NetBeansProjects/ProjetLO07/gestion_admin/contenu_article_admin.php</file>
+        </group>
+    </open-files>
+</project-private>
